@@ -33,5 +33,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
 
     implementation project(":gradientpolyline")
-//    implementation 'com.github.jeffreyliu8:map-gradient-polyline:0.0.1'
+//    implementation 'com.github.jeffreyliu8:map-gradient-polyline:0.0.2'
 }
